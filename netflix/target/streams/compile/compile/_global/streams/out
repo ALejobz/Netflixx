@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/home/tiburcio/Documentos/2020-1/POO/netflix/src/main/scala/Usuario/UsuarioAdmin.scala:31:23: not found: value _listaPeliculas[0m
+[0m[[0m[31merror[0m] [0m[0m            for( i <- _listaPeliculas){[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/tiburcio/Documentos/2020-1/POO/netflix/src/main/scala/Usuario/UsuarioAdmin.scala:33:21: not found: value listaAuxi1[0m
+[0m[[0m[31merror[0m] [0m[0m                    listaAuxi1 = List()[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/tiburcio/Documentos/2020-1/POO/netflix/src/main/scala/Usuario/UsuarioAdmin.scala:34:21: not found: value listaAuxi1[0m
+[0m[[0m[31merror[0m] [0m[0m                    listaAuxi1 = _listaPeliculas.filter(x => x._nombre != peliTarget)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/tiburcio/Documentos/2020-1/POO/netflix/src/main/scala/Usuario/UsuarioAdmin.scala:38:16: not found: value listaAuxi1[0m
+[0m[[0m[31merror[0m] [0m[0m        return listaAuxi1[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/tiburcio/Documentos/2020-1/POO/netflix/src/main/scala/Usuario/UsuarioNorm.scala:52:23: not found: value _listaPeliculas[0m
+[0m[[0m[31merror[0m] [0m[0m            for( i <- _listaPeliculas )[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
